@@ -902,6 +902,7 @@ def --env cx [arg] {
 alias l = ls --all
 alias c = clear
 alias ll = ls -l
+alias cheat = cat ~/personal/dotfiles/cheatsheet.md
 alias lt = eza --tree --level=2 --long --icons --git
 alias v = nvim
 alias as = aerospace
